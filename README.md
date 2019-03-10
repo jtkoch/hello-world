@@ -1,2 +1,3 @@
 # hello-world
 ideas, resources, discussions, etc...
+Hello, My name is Jensen and I have a dog named Arthur and a wife named Bette.
